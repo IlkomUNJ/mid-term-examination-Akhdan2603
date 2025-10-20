@@ -1,3 +1,5 @@
+(im sorry sir i think i accidently create this md on code, so if you on preview mode it will look a mess, i appologize for my carelessness)
+
 1. Analyze and finding correct window size in identifying a segment.
    A. Metodology
      Program mengimplementasikan sliding window untuk mengekstrak semua window 3×3 dari canvas. Setiap window di-dump ke file window_dump.txt untuk analisis.
